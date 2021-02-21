@@ -2,7 +2,9 @@
   margin: 100px auto;
   font-size: 25px;
   width: 1em;
+  left: 50%;
   height: 1em;
+  top: 50%;
   border-radius: 50%;
   position: absolute;
   text-indent: -9999em;
