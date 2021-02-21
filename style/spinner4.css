@@ -2,16 +2,17 @@
   color: #ffffff;
   font-size: 20px;
   margin: 100px auto;
-  width: 1em;
-  height: 1em;
+  /* width: 1em; */
+  /* height: 1em; */
   border-radius: 50%;
-  position: relative;
+  /* position: relative; */
   text-indent: -9999em;
   -webkit-animation: load4 1.3s infinite linear;
   animation: load4 1.3s infinite linear;
   -webkit-transform: translateZ(0);
   -ms-transform: translateZ(0);
   transform: translateZ(0);
+  
   position: absolute; 
   width: 0px; 
   z-index: 2000000000; 
