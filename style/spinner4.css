@@ -1,20 +1,18 @@
 .loader4 {
-  color: #ffffff;
-  font-size: 20px;
-  margin: 100px auto;
-  /* width: 1em; */
-  /* height: 1em; */
-  border-radius: 50%;
+  color: #333 !important;
+  font-size: 10px !important;
+  margin: 5px auto !important;
+  border-radius: 100% !important;
   /* position: relative; */
-  text-indent: -9999em;
-  -webkit-animation: load4 1.3s infinite linear;
-  animation: load4 1.3s infinite linear;
-  -webkit-transform: translateZ(0);
-  -ms-transform: translateZ(0);
-  transform: translateZ(0);
+  text-indent: -9999em !important;
+  -webkit-animation: load4 1.3s infinite linear !important;
+  animation: load4 1.3s infinite linear !important;
+  -webkit-transform: translateZ(0) !important;
+  -ms-transform: translateZ(0) !important;
+  transform: translateZ(0) !important;
   
   position: absolute !important; 
-  width: 0px !important; 
+  width: 20% !important; 
   z-index: 2000000000 !important; 
   left: 50% !important; 
   top: 50% !important;
