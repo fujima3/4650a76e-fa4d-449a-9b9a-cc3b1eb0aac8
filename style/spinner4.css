@@ -13,11 +13,11 @@
   -ms-transform: translateZ(0);
   transform: translateZ(0);
   
-  position: absolute; 
-  width: 0px; 
-  z-index: 2000000000; 
-  left: 50%; 
-  top: 50%;
+  position: absolute !important; 
+  width: 0px !important; 
+  z-index: 2000000000 !important; 
+  left: 50% !important; 
+  top: 50% !important;
 }
 @-webkit-keyframes load4 {
   0%,
