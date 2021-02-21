@@ -13,6 +13,7 @@
   -ms-transform: translateZ(0);
   transform: translateZ(0);
   z-index: 2000000000;
+  mix-blend-mode: difference;
 }
 @-webkit-keyframes load4 {
   0%,
